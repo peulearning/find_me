@@ -17,11 +17,11 @@ cd  ~/CEP
 3. Instalar as dependências.
 
 ```bash
-sudo pip3 install -r requirements.txt
+sudo pip3 install -r requirements.txt ( se na sua máquina não tiver os req )
 ```
 
 4. Finalmente rodar o script.
 
 ```bash
-python3 main.py
+python3 app.py
 ```
